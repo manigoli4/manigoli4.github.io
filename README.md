@@ -1,5 +1,3 @@
-# Current Status (badge)
-[![Build Status](https://dev.azure.com/golimanikanta/demo/_apis/build/status/manigoli4.manigoli4.github.io?branchName=master)](https://dev.azure.com/golimanikanta/demo/_build/latest?definitionId=1&branchName=master)
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
@@ -24,6 +22,10 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 * https://github.com/davidtmiller
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+# Current Status (badge)
+[![Build Status](https://dev.azure.com/golimanikanta/demo/_apis/build/status/manigoli4.manigoli4.github.io?branchName=master)](https://dev.azure.com/golimanikanta/demo/_build/latest?definitionId=1&branchName=master)
+
 
 
 ## Copyright and License
